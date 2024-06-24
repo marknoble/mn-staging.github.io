@@ -5,6 +5,10 @@
       "url": ".nojekyll"
     },
     {
+      "hash": "sha256-IVXleFFiETOyafHhSHax0nBe5NmR+A6yKcoGV31E26w=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-veY5sdWpgRsDGmxuOi7C\/DfhzN80UASpHd54kZd2UJY=",
       "url": "apple-touch-icon.png"
     },
@@ -97,7 +101,7 @@
       "url": "images\/bannerSecurity.jpg"
     },
     {
-      "hash": "sha256-IVXleFFiETOyafHhSHax0nBe5NmR+A6yKcoGV31E26w=",
+      "hash": "sha256-tYvHIAeKy6HwKE9Fr4c7D9vpldSsmCRNmaM3\/rok6Ik=",
       "url": "index.html"
     },
     {
@@ -149,11 +153,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Imnlkn+WKfieoJMAi1sjGdILl9Njj36a7UzdSDKNU\/0=",
+      "hash": "sha256-lpwcF+pZBHLUicsAUW61tn+FLRzFOPzloe84DyVCpvQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Z4VMozVLvIakn8srTx2805gd88UcIY1C5zoqH78pWMQ=",
+      "hash": "sha256-4KWCJPIOJDl1GAGgBV3OCjKEJ5fCDYxRfV7EPI+8N0g=",
       "url": "_framework\/MarkNobleBlazor.wasm"
     },
     {
@@ -361,5 +365,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "4ct\/qCJF"
+  "version": "YA+jkttQ"
 };
