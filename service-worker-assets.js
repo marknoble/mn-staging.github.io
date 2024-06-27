@@ -77,11 +77,11 @@
       "url": "favicon-32x32.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-LsMozxQSw\/z3hjE1lpVFvoIPKWqk8WPPbxTq3EQniv0=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-CUC8tUNJv5IZGOHh6MrGS1UYi+lvIUORRr9BNeMdCv8=",
       "url": "icon-512.png"
     },
     {
@@ -91,6 +91,10 @@
     {
       "hash": "sha256-bF0zh4Yydt22yU9DtwuNtwkkh0tS+N4FUGmS1Ce64Nk=",
       "url": "images\/bannerCareer.jpg"
+    },
+    {
+      "hash": "sha256-UgAEHyhS3cUdqjlRPl3L6uuEaMw4IZyrW6XHcEJt+4c=",
+      "url": "images\/bannerDstar.png"
     },
     {
       "hash": "sha256-sNRGAxvuVFjxb+qx78xzrP4V2ztfFSTwOKUsFOozo6w=",
@@ -113,7 +117,7 @@
       "url": "keybase.txt"
     },
     {
-      "hash": "sha256-aE\/9rlUCxYaULl1MyIWaOOOwPxOP3Wgw\/X6X+R1DoT8=",
+      "hash": "sha256-Avv4qZ1qr5gkRnzualQzqYBur6tLAv0fWV\/daDtHl14=",
       "url": "manifest.json"
     },
     {
@@ -157,15 +161,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-6AYGOL1LH6QxLPgss2ehGnaMzF1qAzvzacab7E8qyLY=",
+      "hash": "sha256-+BIqfXxVg33h0ox3T4fYdNPOueIi9h0pQYyYf8hlORk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Ftl5AyaNI\/wwu+IL32NUYVUJ2WkjdvKXcSz2aeXv8nA=",
+      "hash": "sha256-j8NIHbZKYF5FY\/1TVsFnx1cF3wzpIcj\/JSKKqlHUKaY=",
       "url": "_framework\/MarkNobleBlazor.wasm"
     },
     {
-      "hash": "sha256-I5qIcGOcKqOpviN1lx+hbE8fBvlovC5LMIPmeREYz\/0=",
+      "hash": "sha256-d4FjuV55EX6fbf7dBQ95+KkjdSJ9muXA73Z9Zz2ZZPo=",
       "url": "_framework\/MarkNobleRCL.wasm"
     },
     {
@@ -233,7 +237,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-9hw5AQQGF2ZEpSnLWc28hjBIWhEckTx\/+OH9OZsV2KM=",
+      "hash": "sha256-SaN7B2GpJdEvkOCW+LrcQxihmAU3YkbE\/SryvF4l1Ac=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
@@ -369,5 +373,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "Lk30otKs"
+  "version": "D1GZ2xC+"
 };
