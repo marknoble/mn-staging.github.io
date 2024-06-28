@@ -161,7 +161,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-jZ9tXfRh0KEIk6yMtmsgpuODOJg+Zxt792iJkk8VsDc=",
+      "hash": "sha256-iL5sCMVt\/vnLsS9g1L4jRhfgggSohwBVnEtbcBfQfUs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -169,7 +169,7 @@
       "url": "_framework\/HtmlAgilityPack.wasm"
     },
     {
-      "hash": "sha256-KJUai03gBdkZj1\/616RvFO0x+i0bFpMyL0F88VKSwQs=",
+      "hash": "sha256-SuT9mYbBuVeDqo3hSRHg71AvqPg9ITq\/neVnYNf4PqI=",
       "url": "_framework\/MarkNobleBlazor.wasm"
     },
     {
@@ -413,5 +413,5 @@
       "url": "_content\/MarkNobleRCL\/MarkNobleRCL.bundle.scp.css"
     }
   ],
-  "version": "YiYpO8XL"
+  "version": "KvU12k9X"
 };
