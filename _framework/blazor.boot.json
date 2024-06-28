@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MarkNobleBlazor",
   "resources": {
-    "hash": "sha256-et4bDaKZs9U7aMuvQeEMK6ltFh2XLLyBYf8prwQA2Rg=",
+    "hash": "sha256-dh3yRVAaLKtctvsNZEJL1I0wsxly+sQS3lo7jOrLLcY=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.82suddq1wh.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "HtmlAgilityPack.wasm": "sha256-HtCqzZx+jaWhlVaRtXZuEjGE0pszwNdlnBubNEzeBCY=",
-      "MarkNobleBlazor.wasm": "sha256-SuT9mYbBuVeDqo3hSRHg71AvqPg9ITq/neVnYNf4PqI=",
+      "MarkNobleBlazor.wasm": "sha256-A2eSDbFDZrUiTs1NWe3mSRPbVRXVt/TEUUnGcHNDEdg=",
       "MarkNobleRCL.wasm": "sha256-d4FjuV55EX6fbf7dBQ95+KkjdSJ9muXA73Z9Zz2ZZPo=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-35bITEjbq8RgrhzywYotexsHzWDFON2K+Rq392B1XB4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-0ZvYOAj/gz7llklpFf28zUmNsXUKRyq4r4l9S/dRvFI=",
